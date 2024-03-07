@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 body{
-    background: linear-gradient(lightblue,rgb(127, 78, 241));
+    background: linear-gradient (lightblue,rgb(127, 78, 241));
 }
 h1{
     font-family:Bebas Neue;
