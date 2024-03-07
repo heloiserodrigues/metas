@@ -32,3 +32,29 @@ body {
     width: 100%;
     font-size: 32px;
 }
+
+. titulo-principal span {
+    c olor : var(--verde);
+    }
+    }
+    b ody {
+    b ackground-color : var(--cor-de-fundo);
+    c olor : var(--branco);
+    f ont-family : 'Chakra Petch' , sans-serif ;
+    }
+    . conteudo-principal {
+    d isplay : flex ;
+    fl ex-direction : column ;
+    j ustify-content : center ;
+    a lign-items : center ;
+    m ax-width : 1200px ;
+    w idth : 100% ;
+    m argin : 0 auto ;
+    }
+    . titulo-principal {
+    t ext-align : left ;
+    w idth : 100% ;
+    f ont-size : 32px ;
+.botoes {
+    display : block ;
+    }
