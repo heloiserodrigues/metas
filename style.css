@@ -2,11 +2,11 @@
 :root{
     background-color: rgb(85, 68, 99);
 }
-body{
-    
-}
 h1{
     text-align: center;
     font-family:Bebas Neue;
     background-color:#baaefd ;
+}
+ul{
+    text-align: center;
 }
