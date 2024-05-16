@@ -1,12 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-:root{
-    background-color: rgb(85, 68, 99);
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-h1{
-    text-align: center;
-    font-family:Bebas Neue;
-    background-color:#baaefd ;
+
+/*parte das letras e cor das metas*/
+body {
+    font-family:Noto Sans ;
+    font-size: 18px;
+    background-color: #196050;
+    color:  #948a8a;
+    padding: 47px;
 }
-ul{
+
+/*parte do titulo*/
+header {
+    background-color: #196050;
+    color: #CC8105;
+    padding: 10px 0;
     text-align: center;
+}
+
+main {
+    padding: 20px 0;
+}
+
+/*parte dos blocos onde ficam as metas*/
+.meta {
+    background-color: #100e189c;
+    margin-bottom: 17px;
+    padding: 27px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #0000006c;
+    color: light gray;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
